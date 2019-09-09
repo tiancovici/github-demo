@@ -4,7 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-
+    Jason Taylour jason@gmail.com
 # THANKS
 
     <name>

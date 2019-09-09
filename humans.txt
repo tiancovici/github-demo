@@ -7,8 +7,8 @@
     Jason Taylour jason@gmail.com
 # THANKS
 
-    <name>
-
+    to my instructor
+    
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
